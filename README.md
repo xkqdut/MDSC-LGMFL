@@ -1,8 +1,9 @@
 # MDSC-LGMFL
-Pytorch implementation for the following paper
 
-Multi-view deep subspace clustering via level-by-level guided multi-level features learning
+**Multi-view deep subspace clustering via level-by-level guided multi-level features learning**< br >
 
-Environment
-Python 3.9.7
-Pytorch 1.11.0
+Pytorch implementation for the following paper< br >
+
+**Environment**< br >
+* Python 3.9.7< br >
+* Pytorch 1.11.0< br >
